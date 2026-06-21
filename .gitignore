@@ -1,0 +1,16 @@
+# This repo holds the README, license, and docs only - no source, no binaries.
+# Release binaries are attached to GitHub Releases, not committed here.
+
+# Archives / binaries (should never be committed; they go to Releases)
+*.zip
+*.tar.gz
+*.exe
+*.dll
+*.pdb
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vs/
+.idea/
