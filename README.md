@@ -9,7 +9,7 @@
 ![Languages](https://img.shields.io/badge/languages-13-5865F2)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-dc3545)
 
-![PlayStation Payload Center](docs/screenshot.png)
+![PlayStation Payload Center](docs/demo.gif)
 
 </div>
 
