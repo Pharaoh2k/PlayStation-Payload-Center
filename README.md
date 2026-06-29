@@ -5,7 +5,7 @@
 **Discover, download, verify, queue, and send homebrew payloads to a jailbroken PS4 / PS5 - from one cross-platform desktop app.**
 
 ![Platforms](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-self--contained-2ea043)
-![Version](https://img.shields.io/badge/version-2.0.0--preview-f5a623)
+![Version](https://img.shields.io/badge/version-2.0.0--stable-f5a623)
 ![Languages](https://img.shields.io/badge/languages-13-5865F2)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-dc3545)
 
